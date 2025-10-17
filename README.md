@@ -1,7 +1,7 @@
 <b>Infopoiesis</b>
 <br>
 Infopoiesis is a performance method that transforms global statistical datasets into normalized control signals.
-These signals don’t directly produce sound — instead, they act as navigational inputs within a live beat slicing environment.
+These signals don’t directly produce sound. Instead, they act as navigational inputs within a live beat slicing environment.
 <br><br>
 <b>Concept</b>
 <br>
